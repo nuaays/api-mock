@@ -1,6 +1,4 @@
-'use strict'
-
-describe('test/app/controller/home.test.js', () => {
+describe('test/app/controller/order.test.js', () => {
   it('should app auto init on setup.js', () => {
     // app is auto init at `test/.setup.js`
     assert(app)

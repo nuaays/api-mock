@@ -1,5 +1,5 @@
-module.exports = appInfo => {
+module.exports = (appInfo) => {
   return {
-    keys: appInfo.name + '_1489132676072_319'
+    keys: `${appInfo.name}_1489132676072_319`,
   }
 }
