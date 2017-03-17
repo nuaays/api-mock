@@ -10,7 +10,7 @@ module.exports = (app) => {
             'id|10000-99999': 1,
             'order_no|1000000000-9999999999': 1,
             'amount|1-1000.1-2': 1,
-            'order_type|1-3': 1,
+            'order_type|1-2': 1,
             'order_status|1-3': 1,
             'payment_name|1-3': 1,
             member_phone: /^1[34578]\d{9}$/,
